@@ -4,6 +4,7 @@ RUBRIC.md
 # Node
 node_modules/
 coverage/
+npm-debug.log*
 .nyc_output/
 
 # Environment
